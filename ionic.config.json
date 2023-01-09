@@ -1,0 +1,7 @@
+{
+  "name": "MathApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
